@@ -10,7 +10,7 @@ def home():
 
 @app.route("/home")
 def homesweethome():
-    return "Home sweet home"
+    return "Home sweet home "
 
 @app.route("/time")
 def time():
